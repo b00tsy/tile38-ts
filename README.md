@@ -711,9 +711,9 @@ await tile38.set('fleet', 'bus').point(33.5123001, -112.2693001).exec();
 **Geosearch**
 | | |
 |--|--|
-| `.nearby(name, endpoint)` | |
-| `.within(name, endpoint)` | |
-| `.intersects(name, endpoint)` | |
+| `.nearby(name)` | |
+| `.within(name)` | |
+| `.intersects(name)` | |
 
 **Options**
 | | |
